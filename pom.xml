@@ -59,7 +59,7 @@
     <distributionManagement>
         <repository>
             <id>absolute directory</id>
-            <url>file:///Users/marc/development/experiments/release2/workspace</url>
+            <url>file:///Users/marc/development/experiments/release2.workspace</url>
         </repository>
     </distributionManagement>
 
