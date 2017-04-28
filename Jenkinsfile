@@ -4,7 +4,7 @@ pipeline {
     stage('error') {
       steps {
         sleep 5
-        sh 'mvn clean install'
+        sh './mvnw clean install'
       }
     }
   }
