@@ -56,4 +56,11 @@
         <developerConnection>scm:git:https://github.com/enschede/release.git</developerConnection>
     </scm>
 
+    <distributionManagement>
+        <repository>
+            <id>absolute directory</id>
+            <url>file:///home/marc/workspace</url>
+        </repository>
+    </distributionManagement>
+
 </project>
