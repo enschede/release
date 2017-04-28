@@ -53,6 +53,7 @@
     </build>
 
     <scm>
+        <url>scm:git:https://github.com/enschede/release.git</url>
         <developerConnection>scm:git:https://github.com/enschede/release.git</developerConnection>
     </scm>
 
