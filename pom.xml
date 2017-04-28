@@ -54,7 +54,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/enschede/release.git</developerConnection>
-        <tag>release-0.0.1</tag>
     </scm>
 
     <distributionManagement>
