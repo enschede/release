@@ -5,7 +5,7 @@
 
     <groupId>nl.marcenschede.tests</groupId>
     <artifactId>release</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>release</name>
@@ -59,7 +59,7 @@
     <distributionManagement>
         <repository>
             <id>absolute directory</id>
-            <url>file:///home/marc/workspace</url>
+            <url>file:///Users/marc/development/experiments/release2/workspace</url>
         </repository>
     </distributionManagement>
 
