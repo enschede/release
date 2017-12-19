@@ -53,8 +53,10 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/enschede/release.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+        <connection>scm:git:https://github.com/enschede/release.git</connection>
+        <url>scm:git:https://github.com/enschede/release.git</url>
+    </scm>
 
     <distributionManagement>
         <repository>
