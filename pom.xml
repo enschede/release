@@ -4,7 +4,7 @@
 
     <groupId>nl.marcenschede.tests</groupId>
     <artifactId>release</artifactId>
-    <version>0.0.10-SNAPSHOT</version>
+    <version>0.0.10</version>
     <packaging>jar</packaging>
 
     <name>release</name>
@@ -53,7 +53,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/enschede/release.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>release-0.0.10</tag>
         <connection>scm:git:https://github.com/enschede/release.git</connection>
         <url>scm:git:https://github.com/enschede/release.git</url>
     </scm>
