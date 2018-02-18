@@ -5,7 +5,7 @@
 
     <groupId>nl.marcenschede.tests</groupId>
     <artifactId>release</artifactId>
-    <version>0.0.18-SNAPSHOT</version>
+    <version>0.0.20-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>release</name>
