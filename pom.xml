@@ -4,7 +4,7 @@
 
     <groupId>nl.marcenschede.tests</groupId>
     <artifactId>release</artifactId>
-    <version>0.0.27-SNAPSHOT</version>
+    <version>0.0.27</version>
     <packaging>jar</packaging>
 
     <name>release</name>
@@ -52,7 +52,7 @@
     </build>
 
     <scm>
-        <tag>HEAD</tag>
+        <tag>release-0.0.27</tag>
         <connection>scm:git:https://github.com/enschede/release.git</connection>
     </scm>
 
