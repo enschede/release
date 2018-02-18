@@ -63,11 +63,11 @@
         <!--</repository>-->
         <repository>
             <id>dev-artifactory</id>
-            <url>http://admin:admin@localhost:8081/artifactory/libs-release-local/</url>
+            <url>http://admin:admin@artifactory:8081/artifactory/libs-release-local/</url>
         </repository>
         <snapshotRepository>
             <id>dev-artifactory</id>
-            <url>http://admin:admin@localhost:8081/artifactory/libs-snapshot-local/</url>
+            <url>http://admin:admin@artifactory:8081/artifactory/libs-snapshot-local/</url>
         </snapshotRepository>
     </distributionManagement>
 
