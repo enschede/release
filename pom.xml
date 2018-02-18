@@ -68,7 +68,7 @@
         </repository>
         <snapshotRepository>
             <id>dev-artifactory</id>
-            <url>http://localhost:8081/artifactory/libs-snapshot-local/</url>
+            <url>http://admin:admin@localhost:8081/artifactory/libs-snapshot-local/</url>
         </snapshotRepository>
     </distributionManagement>
 
