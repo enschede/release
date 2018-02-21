@@ -4,7 +4,7 @@ services:
     image: docker.bintray.io/jfrog/artifactory-oss:5.8.4
     container_name: artifactory
     ports:
-      - 8081:8081
+      - 9004:8081
     volumes:
       - artifactory_data:/var/opt/jfrog/artifactory
 #    Add extra Java options by uncommenting the following lines
@@ -23,7 +23,12 @@ services:
       - jenkins_data:/var/jenkins_home
     ports:
       - 50000:50000
-      - 8080:8080
+      - 9003:8080
+#  svn:
+#    image: krisdavison/svn-server
+#    ports:
+#      - 9010:80
+#    command: /startup.sh
 
 volumes:
   jenkins_data:
