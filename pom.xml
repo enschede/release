@@ -59,7 +59,7 @@
     <distributionManagement>
         <repository>
             <id>absolute directory</id>
-            <url>${env.artifacts}</url>
+            <url>${artifacts}</url>
         </repository>
         <!--<repository>-->
             <!--<id>dev-artifactory</id>-->
