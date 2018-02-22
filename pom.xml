@@ -4,7 +4,7 @@
 
     <groupId>nl.marcenschede.tests</groupId>
     <artifactId>release</artifactId>
-    <version>0.0.39-SNAPSHOT</version>
+    <version>0.0.38-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>release</name>
