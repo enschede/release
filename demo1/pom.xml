@@ -4,7 +4,7 @@
 
 	<groupId>nl.marcenschede.tests.release</groupId>
 	<artifactId>demo1</artifactId>
-	<version>0.0.41-SNAPSHOT</version>
+	<version>0.0.41</version>
 	<packaging>jar</packaging>
 
 	<name>demo1</name>
@@ -59,4 +59,8 @@
 			<url>http://artifactory:8081/artifactory/libs-snapshot-local/</url>
 		</snapshotRepository>
 	</distributionManagement>
+
+  <scm>
+    <tag>release-0.0.41</tag>
+  </scm>
 </project>
