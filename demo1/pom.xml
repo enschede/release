@@ -4,7 +4,7 @@
 
 	<groupId>nl.marcenschede.tests.release</groupId>
 	<artifactId>demo1</artifactId>
-	<version>0.0.38</version>
+	<version>0.0.39-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>demo1</name>
@@ -44,10 +44,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
-
-
-  <scm>
-    <tag>release-0.0.38</tag>
-  </scm>
 </project>
