@@ -4,7 +4,7 @@
 
     <groupId>nl.marcenschede.tests</groupId>
     <artifactId>release</artifactId>
-    <version>0.0.39-SNAPSHOT</version>
+    <version>0.0.39</version>
     <packaging>pom</packaging>
 
     <name>release</name>
@@ -31,7 +31,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/enschede/release.git</connection>
-        <tag>HEAD</tag>
+        <tag>release-0.0.39</tag>
     </scm>
 
     <distributionManagement>
