@@ -1,12 +1,12 @@
-package nl.marcenschede.tests;
+package nl.marcenschede.tests.release.demo1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReleaseApplication {
+public class Demo1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ReleaseApplication.class, args);
+		SpringApplication.run(Demo1Application.class, args);
 	}
 }
